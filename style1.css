@@ -90,12 +90,12 @@ nav ul {
       flex-wrap: wrap;
     }
 
-    .container{
+/*     .container{
         display: grid;
         grid-template-columns: repeat(3, 20vw);
         grid-template-rows: repeat(3, 20vw);
         font-family: "Roboto", sans-serif;
-    }
+    } */
   }
 
   .info{
